@@ -51,14 +51,14 @@ $('.scroll-up-btn').click(function(){
 //typing animation
 
 var type = new Typed('.typing', {
-    strings: ["Concepteur d'Applications", "Développeur Fullstack", "Expert Java / Angular", "Futur alternant Master"],
+    strings: ["Concepteur d'Applications", "Développeur Fullstack"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
 })
 
 var type = new Typed('.typing-2', {
-    strings: ["Passionné d'Ingénierie", "Force de proposition", "Technophile curieux", "Orienté solutions métiers"],
+    strings: ["Passionné d'Ingénierie", "Futur alternant Master"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
