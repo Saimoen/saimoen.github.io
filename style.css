@@ -349,20 +349,21 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills .skills-content .right .html::before{
-    width: 50%;
+/* Mise à jour des classes selon tes nouvelles compétences */
+.skills .skills-content .right .java::before{
+    width: 85%;
 }
-.skills .skills-content .right .css::before{
-    width: 30%;
+.skills .skills-content .right .angular::before{
+    width: 80%;
+}
+.skills .skills-content .right .sql::before{
+    width: 75%;
 }
 .skills .skills-content .right .js::before{
-    width: 40%;
+    width: 90%;
 }
-.skills .skills-content .right .php::before{
-    width: 25%;
-}
-.skills .skills-content .right .mysql::before{
-    width: 15%;
+.skills .skills-content .right .agile::before{
+    width: 85%;
 }
 
 /* TEAMS SECTION STYLING */
